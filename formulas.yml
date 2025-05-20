@@ -1,0 +1,79 @@
+# fórmulas.yml
+
+bhaskara: |
+  **Equação do 2º grau**  ax² + bx + c = 0
+  Discriminante  △ = b² − 4ac
+  Raízes  x = (−b ± √△) / (2a)
+
+potenciacao: |
+  **Potenciação**  aⁿ = a × a × … (n vezes)
+  Propriedades principais:
+    • aⁿ · aᵐ = aⁿ⁺ᵐ
+    • (aⁿ)ᵐ = aⁿᵐ
+    • a⁰ = 1  (a ≠ 0)
+
+radiciacao: |
+  **Radiciação**  ⁿ√a = a^(1/n)
+  Propriedades:
+    • ⁿ√(a·b) = ⁿ√a · ⁿ√b
+    • ⁿ√(a/b) = ⁿ√a / ⁿ√b
+
+progressao-aritmetica: |
+  **Progressão Aritmética (PA)**
+  Termo geral:  aₙ = a₁ + (n − 1)·r
+  Soma dos n termos:  Sₙ = (a₁ + aₙ)·n / 2
+
+progressao-geometrica: |
+  **Progressão Geométrica (PG)**
+  Termo geral:  aₙ = a₁·qⁿ⁻¹
+  Soma (q ≠ 1):  Sₙ = a₁·(qⁿ − 1)/(q − 1)
+
+trigonometria-basica: |
+  **Triângulo retângulo**
+  seno  = cateto oposto / hipotenusa
+  cosseno = cateto adjacente / hipotenusa
+  tangente = cateto oposto / cateto adjacente
+
+lei-dos-cossenos: |
+  c² = a² + b² − 2ab·cos(γ)
+
+lei-dos-senos: |
+  a/sen(α) = b/sen(β) = c/sen(γ)
+
+area-triangulo: |
+  **Área triângulo**
+  (base · altura)/2  ou  (a·b·sen(γ))/2
+
+area-circulo: |
+  π·r²
+
+circunferencia: |
+  2·π·r
+
+volume-cubo: |
+  V = a³
+
+volume-paralelepipedo: |
+  V = a·b·c
+
+volume-cilindro: |
+  V = π·r²·h
+
+volume-cone: |
+  V = (π·r²·h)/3
+
+volume-esfera: |
+  V = 4/3·π·r³
+
+teorema-pitagoras: |
+  **Pitágoras**  a² + b² = c²
+
+porcentagem: |
+  % = (parte / total) · 100
+
+regra-de-tres: |
+  a/b = c/x  ⇒  x = (b·c)/a
+
+probabilidade-simples: |
+  P(E) = casos favoráveis / casos possíveis
+
